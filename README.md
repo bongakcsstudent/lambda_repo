@@ -1,5 +1,5 @@
 # Inventory Management: AWS Lambda <br>
-The [Blog]([https://dev.to/bongakcsstudent](https://dev.to/bongakcsstudent/inventory-management-with-aws-lambda-l-pfi)).
+The [Blog](https://dev.to/bongakcsstudent/inventory-management-with-aws-lambda-l-pfi)
 
 ## Specific Use Cases 
 - Inventory Update
